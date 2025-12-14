@@ -1,0 +1,39 @@
+{
+    "gears": [
+        "events",
+        "fortnite",
+        "leaderboards",
+        "logger",
+        "messages",
+        "mod",
+        "profile",
+        "rolesBack",
+        "service",
+        "starboard",
+        "steam",
+        "suggestions",
+        "tickets",
+        "timeouts",
+        "tts",
+        "xbox"
+    ],
+    "1449231891088674918": {
+        "accent_color": "0x0000FF",
+        "log_channel": 1449595925327642696,
+        "admin_channel": 1449596427083972608,
+        "ticket_category": 1449597032015724636,
+        "suggestions_channel": 1449597448065646735,
+        "media_channel": 1449597689598578809,
+        "media_pins": 1,
+        "admin_id": 1112888788528672789,
+        "mod_role_id": 1449236935272038440,
+        "insider_id": 1449599130081955960,
+        "admin_role_id": 1449236200115142787,
+        "trash_channels": [],
+        "bannedChannels": [],
+        "bannedUsers": [],
+        "bannedCategories": [],
+        "bannedTTSChannels": [],
+        "banned_TTS_role": 0
+    }
+}
